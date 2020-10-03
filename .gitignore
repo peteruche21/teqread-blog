@@ -1,0 +1,17 @@
+*__pycache__
+*.sqlite3
+scripts/biuld_deploy.sh
+scripts/db_proxy.sh
+scripts/docker_biuld.sh
+scripts/docker_run.sh
+scripts/gcloud_biuld.sh
+scripts/gcloud_deploy.sh
+scripts/local_proxy.sh
+scripts/local.sh
+scripts/migrate_proxy_db.sh
+.pot
+.vscode
+db
+demo-files
+demo.html
+db_proxy.sh
