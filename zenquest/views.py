@@ -21,6 +21,14 @@ def technology(request):
     return render(request, 'technology/3.html', {})
 
 
+def t2(request):
+    return render(request, 'technology/2.html', {})
+
+
+def t1(request):
+    return render(request, 'technology/1.html', {})
+
+
 def nature(request):
     return render(request, 'nature/1.html', {})
 

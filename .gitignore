@@ -10,7 +10,6 @@ scripts/local_proxy.sh
 scripts/local.sh
 scripts/migrate_proxy_db.sh
 .pot
-.vscode
 db
 demo-files
 demo.html
